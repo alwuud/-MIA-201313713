@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1471012909 source:/home/daniel/MIA-201313713/ProyectoArchivos/comando.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"comando.h"
+	"tad.h"
+
+1471010463 /home/daniel/MIA-201313713/ProyectoArchivos/comando.h
+
+1471008518 /home/daniel/MIA-201313713/ProyectoArchivos/tad.h
+
+1471008494 source:/home/daniel/MIA-201313713/ProyectoArchivos/lexico.c
+
+1471012727 source:/home/daniel/MIA-201313713/ProyectoArchivos/main.c
+	<stdio.h>
+	<stdlib.h>
+	"tad.h"
+	"main.h"
+
+1471011223 /home/daniel/MIA-201313713/ProyectoArchivos/main.h
+

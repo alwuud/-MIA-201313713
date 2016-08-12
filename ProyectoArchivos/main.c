@@ -1,8 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+#include "tad.h"
+#include "main.h"
+
+
 int main()
 {
-    printf("Hello world!\n");
+    char val[]= "comer";
+
+    checkCommand(val);
     return 5;
 }
